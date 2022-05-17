@@ -1,4 +1,4 @@
-##MSSP Secure Endpoint Customer Connector Version Check
+## MSSP Secure Endpoint Customer Connector Version Check
 
 ## Problem Statement.
 Secure Endpoint MSSP partners need to operate with efficiency at scale.  “Simple” tasks like verifying compliance for standard operating conditions on all customer endpoints deployed can be time consuming.
